@@ -1,5 +1,5 @@
 "use strict";
-import items from "/gallery-items.js";
+import items from "./gallery-items.js";
 const galleryList = document.querySelector(".js-gallery");
 const lightbox = document.querySelector(".js-lightbox");
 const lightboxImg = lightbox.querySelector("img");
